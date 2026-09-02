@@ -1,0 +1,1 @@
+Hi, I'm Rajesh, a DevSecOps & Application Security Analyst specializing in Docker and pipeline security. I focus on embedding proactive security controls into fast-paced DevOps workflows without slowing down delivery. B.Tech in Information Technology from Dayananda Sagar Institutions.
