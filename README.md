@@ -95,5 +95,4 @@ Gradio will start a local server (and print a shareable link) where you can chat
 - [Requests](https://requests.readthedocs.io/) — GitHub API + Pushover calls
 
 ## License
-
-No license has been added yet — consider adding one (e.g. MIT) if you want others to reuse this code.
+MIT 2026
